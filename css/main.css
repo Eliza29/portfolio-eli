@@ -1,0 +1,14 @@
+body{
+    background-color: #e8e4e1;
+    
+}
+img{
+    width: 100%;
+    height: 100vh;
+    filter: opacity(50%);
+}
+.main-title{
+    position: absolute;
+    top: 21%;
+    left:38%;
+}
