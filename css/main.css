@@ -59,3 +59,17 @@ figure img {
     font-size: 60px;
     margin: 7px 40px;
 }
+.skills li img{
+    width: 40px;
+    margin: 7px 40px;
+}
+.skills li span{
+    margin: 100px;
+    
+}
+footer{
+    height: 45vh;
+}
+footer h2{
+    margin-bottom:50px;
+}
