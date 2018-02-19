@@ -1,12 +1,20 @@
 body{
-    background-color: #e8e4e1;
     /* font-family: 'Source Sans Pro', sans-serif; */
-    font-family: 'Raleway', sans-serif;
-    
+    font-family: 'Raleway', sans-serif;    
 }
-img{
+h2{
+    font-size: 37px;
+    font-weight: 700;
+}
+figure img {
     width: 100%;
-    height: 100vh;    
+    height: 100vh;          
+}
+.position-relative{
+    position: relative;
+}
+.first-image{
+    margin: 0; 
 }
 .main-box{
     background-color: #2c3344a9;
@@ -21,12 +29,33 @@ img{
     font-weight: 700;
 }
 .main-title{
-    padding-top: 27vh;
-}
-h2{
-    font-size: 37px;
-   font-weight: 700;
+    padding-top: 17vh;
 }
 .view{
     height: 100vh;
+    padding-top: 4%;
+    margin-top:-7px;
+}
+.foto{
+    width:300px ;
+}
+.box-center{
+    padding: 10px;
+    height: 80vh;
+    /* color: white; */
+}
+.parallax-container {
+    height: 300px;
+  }
+.parallax img{
+    filter: grayscale(72%) opacity(0.89);
+    /* filter: invert(.8) grayscale(70%); */
+   
+}
+.skills li{
+    display: inline-block;
+}
+.skills li i{
+    font-size: 60px;
+    margin: 7px 40px;
 }
