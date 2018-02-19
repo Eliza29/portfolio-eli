@@ -64,8 +64,7 @@ figure img {
     margin: 7px 40px;
 }
 .skills li span{
-    margin: 100px;
-    
+    margin: 100px; 
 }
 footer{
     height: 45vh;
@@ -73,3 +72,20 @@ footer{
 footer h2{
     margin-bottom:50px;
 }
+.contact li{
+    display:inline-block;
+    margin-left:60px;
+}
+/* .e-mail i {
+    font-size:20px;
+} */
+/* .contact li, .social li{
+    display:inline-block;
+}
+.contact li {
+    margin: 60px;
+}
+ 
+.e-mail i{
+    margin: 8px; 
+} */
