@@ -1,6 +1,7 @@
 body{
     /* font-family: 'Source Sans Pro', sans-serif; */
-    font-family: 'Raleway', sans-serif;    
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;    
 }
 h2{
     font-size: 37px;
@@ -69,23 +70,16 @@ figure img {
 footer{
     height: 45vh;
 }
-footer h2{
-    margin-bottom:50px;
-}
 .contact li{
     display:inline-block;
-    margin-left:60px;
+    margin:27px 50px;
 }
-/* .e-mail i {
-    font-size:20px;
-} */
-/* .contact li, .social li{
-    display:inline-block;
+.e-mail i, .contact li i{
+    font-size:28px;
 }
-.contact li {
-    margin: 60px;
+.social span{
+    margin: 0 7px;
 }
- 
-.e-mail i{
-    margin: 8px; 
-} */
+.text-style{
+    font-size: 18px;
+}
