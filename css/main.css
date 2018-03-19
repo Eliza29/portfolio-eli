@@ -64,5 +64,8 @@ footer {
     .p-heigth {
         height: 100vh;
     }
-  
+    .container1{
+        margin: 0 auto;
+        width:90%;
+    }
 }
