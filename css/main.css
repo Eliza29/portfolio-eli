@@ -4,7 +4,7 @@ body {
     font-size: 17px;    
 }
 h1 {
-    font-size: 80px;
+    font-size: 5rem;
     font-weight: 700;
 }
 h2 {
@@ -13,6 +13,12 @@ h2 {
 }
 footer {
     height: 45vh;
+}
+nav div ul li a{
+    font-size: 1.1em;
+}
+.background1 {
+    background: linear-gradient( rgb(234, 245, 253),white);
 }
 .view {
     height: auto;
