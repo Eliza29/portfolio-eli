@@ -1,14 +1,13 @@
 body {
     font-family: 'Source Sans Pro', sans-serif;
-    /* font-family: 'Raleway', sans-serif; */
     font-size: 17px;    
 }
 h1 {
-    font-size: 5rem;
+    font-size: 5.1rem;
     font-weight: 700;
 }
-h2 {
-    font-size: 37px;
+h3 {
+    font-size: 3.1rem;
     font-weight: 700;
 }
 footer {
