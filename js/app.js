@@ -1,10 +1,10 @@
 $( document ).ready(function(){
-    $('.parallax').parallax();   
+    $('.parallax').parallax(); 
 })
 
 $(window).on('scroll',function(){
     if($(window).scrollTop()){
-        $('nav').addClass('blue-grey').removeClass('transparent');
+        $('nav').addClass('blue-grey darken-2').removeClass('transparent');
     }
-    else{$('nav').removeClass('blue-grey').addClass('transparent');}
+    else{$('nav').removeClass('blue-grey darken-2').addClass('transparent');}
 })
