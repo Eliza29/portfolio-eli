@@ -66,6 +66,12 @@ nav div ul li a{
 .border1{
  border-radius: 7px;
 }
+.footer-center{
+    width: 100%;
+    height: auto;
+    padding: 3px;
+    margin-top:2em; 
+}
 @media only screen and (min-width: 990px) {
     .p-heigth {
         height: 100vh;
