@@ -71,6 +71,9 @@ nav div ul li a{
 .border1{
  border-radius: 7px;
 }
+.btn{
+    padding: 0 1rem;
+}
 .footer-center{
     width: 100%;
     height: auto;
