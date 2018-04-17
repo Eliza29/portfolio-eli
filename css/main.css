@@ -14,7 +14,6 @@ h1 {
 h3 {
     font-size: 3.1rem;
     font-weight: 700;
-    /* margin-bottom: 1.5em; */
 }
 h4{
     margin-top:3em;
@@ -36,12 +35,14 @@ nav div ul li a{
 .box-center {
     padding: 10px;
 }
-
 .p-heigth2 {
     height: 300px;
 }
 .container-opacity {
     background-color: #44444679; 
+}
+.skills li{
+    margin: 0rem;
 }
 .skills li, .social li {
     display: inline-block;
@@ -90,9 +91,11 @@ nav div ul li a{
     height: 100vh;
 }
 @media only screen and (min-width: 990px) {
-    
     .container1{
         margin: 0 auto;
         width:90%;
+    }
+    .skills li{
+        margin: 1rem;
     }
 }
