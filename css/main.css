@@ -24,6 +24,9 @@ footer {
 nav div ul li a{
     font-size: 1.1em;
 }
+nav div ul li a:hover{
+    background-color: #95999c;
+}
 .background1 {
     background: linear-gradient( rgb(234, 245, 253),white);
 }
@@ -58,7 +61,6 @@ nav div ul li a{
 .skills li span {
     margin: 100px; 
 }
-
 .contact li {
     display:inline-block;
     margin:27px 50px;
@@ -70,7 +72,7 @@ nav div ul li a{
     font-size: 18px;
 }
 .border1{
- border-radius: 7px;
+    border-radius: 7px;
 }
 .btn{
     padding: 0 1rem;
@@ -90,6 +92,7 @@ nav div ul li a{
 .p-heigth {
     height: 100vh;
 }
+
 @media only screen and (min-width: 990px) {
     .container1{
         margin: 0 auto;
@@ -98,4 +101,5 @@ nav div ul li a{
     .skills li{
         margin: 1rem;
     }
+    
 }
