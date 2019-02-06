@@ -44,22 +44,12 @@ nav div ul li a:hover{
 .container-opacity {
     background-color: #44444679; 
 }
-.skills li{
-    margin: 0rem;
-}
 .skills li, .social li {
     display: inline-block;
 }
-.skills li i {
-    font-size: 65px;
-    margin: 7px 40px;
-}
-.skills li img {
-    width: 65px;
-    margin: 7px 40px;
-}
-.skills li span {
-    margin: 100px; 
+.skills li img{
+    width: 95px;
+    margin: 4px 40px;
 }
 .contact li {
     display:inline-block;
@@ -91,6 +81,10 @@ nav div ul li a:hover{
 }
 .p-heigth {
     height: 100vh;
+}
+img.responsive-img {
+    max-width: 80% !important;
+    height: auto;
 }
 
 @media only screen and (min-width: 990px) {
