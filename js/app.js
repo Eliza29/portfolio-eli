@@ -9,11 +9,11 @@ $( document ).ready(function(){
     });  
 
     var arrProjects = [
-        {image: "assets/images/burger-foto.jpg", title: "BURGER QUEEN", description:"Burger Queen es un app para tomar pedidos. Elaborado con React, Styled-components",
+        {image: "assets/images/burger-foto.jpg", title: "BURGER QUEEN", description:"Burger Queen es un app para tomar pedidos. Elaborado con React Js, Styled-components",
          linkApp:"https://burguer-queen-app-esf.web.app/"},
         {image: "assets/images/swapi.png", title: "SWAPI", description:"Start Wars es una web donde hallarás toda la información de tus personajes favoritos de la saga.",
          linkCodigo:"https://github.com/Eliza29/swapi-1", linkApp:"https://eliza29.github.io/swapi-1/"},
-        {image: "assets/images/clima.png", title: "APP ClIMA", description:"App para saber el clima actual y de los siguientes días de una ciudad o país. Usando el api de openweathermap.",
+        {image: "assets/images/clima.png", title: "APP ClIMA", description:"App para saber el clima actual de una ciudad o país. Realizado con el api de openweathermap, React Js y Styled-components.",
         linkCodigo:"https://github.com/Eliza29/App-del-clima", linkApp:"https://app-pronostico-clima.web.app/"}
         
     ]
